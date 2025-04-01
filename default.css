@@ -1,0 +1,59 @@
+body{
+    background-color: pink;
+}
+
+
+
+h1{
+    color: blue;
+    font-size: 16px;
+}
+
+hr{
+    color:blueviolet;
+    height: 10px;
+    width: 50%;
+    background-color: orange;
+}
+
+
+a:link{
+    color:deepskyblue
+}
+
+a:visited{
+    color:gray;
+}
+
+p, ul{
+    //font-family: Verdana, Geneva, Tahoma, sans-serif;
+    //font-size: 14px;
+    font-family: "Tektur", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  #size{
+    position: absolute; top: 250px; left: 500px;
+    background-color: silver;
+    padding: 25px;
+    border-style: groove;
+    border-width: 5px;
+    border-color: blue;
+    opacity: 0.5;
+  }
+
+  #main{
+    background-color: aliceblue;
+    height: 700px;
+    width: 1200px;
+    padding: 25px;
+    position: absolute; top: 50px; left: 50px;
+    background-image: url(graphics/Background.jpeg);
+    background-repeat: no-repeat;
+   
+  }
+
