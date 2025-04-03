@@ -64,6 +64,12 @@ body {
     left: 700px;
 }
 
+#title5 {
+    top: 230px;
+    left: 1230px;
+    width: 350px;
+    height: 350px;
+
 img {
     position: absolute;
     top: 250px;
