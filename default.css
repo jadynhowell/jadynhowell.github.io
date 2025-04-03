@@ -59,6 +59,8 @@ p, ul{
 
 img {
     position: absolute;
+    top: 150px;
+    left: 650px; 
     width: 115px;
     height: 115px;
     
